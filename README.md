@@ -1,7 +1,8 @@
 #  HR Dashboard  
 
 ![sleekshot](https://github.com/user-attachments/assets/5ae4ee3e-b114-4a3c-bf5a-9d4f73971444)
-![Uploading sleekshot.png…]()
+
+![sleekshot](https://github.com/user-attachments/assets/6294d8a1-0425-47a1-9a3d-4133ccef4727)
 
 
 ## Summary View  
